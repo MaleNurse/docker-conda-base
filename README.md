@@ -1,2 +1,2 @@
 # docker-conda-base
- Miniconda3 w/ added packages for building
+ Miniforge3 w/ added packages for building
